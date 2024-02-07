@@ -33,6 +33,6 @@ E a tela de logout.
 
 ## Tech
 
-Python  <img src="/assets/python.png" width="15" height="20">
-Bootstrap <img src=/assets/Bootstrap.png width="15" height="20">
-HTML <img src=/assets/HTML.png width="15" height="20">
+### Python  <img src="/assets/python.png" width="15" height="20">
+### Bootstrap <img src=/assets/Bootstrap.png width="15" height="20">
+### HTML <img src=/assets/HTML.png width="15" height="20">
